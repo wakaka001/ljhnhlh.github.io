@@ -25,7 +25,7 @@
 - 9.成品展示
 - X1 meeting-records
 	- [inception meeting(2019/03/22)](page/inception_meeting.md)
-- X2 [kanban](https://github.com/users/ljhnhlh/projects/2)
+- X2 [kanban](https://github.com/ljhnhlh/XianqianWang/projects)
 - X3 auditing-records
 - X4 Tech/Work Report
 - X5 Final Report
