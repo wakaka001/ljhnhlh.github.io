@@ -27,6 +27,7 @@
   - 8.4 部署说明
 - 9.资料分享链接
   - [GitHub上创建组织](https://www.cnblogs.com/haore147/p/4219673.html)
+  - [微信小程序开发相关技术博客视频链接](page/technique_learning.md)
 - 10.贡献率计算
   - [个人贡献每周记录](https://docs.qq.com/sheet/DV1JYc2FLV2Rxc1hK?opendocxfrom=admin&tab=BB08J2)
 - 11.成品展示
