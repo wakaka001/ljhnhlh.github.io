@@ -36,7 +36,7 @@
 - 9.资料分享链接
   - [GitHub上创建组织](https://www.cnblogs.com/haore147/p/4219673.html)
 
-- 10. 成品展示
+- 10.成品展示
 
 - X1 meeting-records
 
