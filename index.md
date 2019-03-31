@@ -34,6 +34,7 @@
 - X1 meeting-records
 
   - [inception meeting(2019/03/22)](page/inception_meeting.md)
+  - [inception meeting_2(2019/03/29)](page/meeting_record_2.md)
 - X2 [kanban](https://github.com/ljhnhlh/ljhnhlh.github.io/projects)
 - X3 auditing-records
 - X4 Tech/Work Report
